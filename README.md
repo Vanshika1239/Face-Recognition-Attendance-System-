@@ -1,7 +1,7 @@
  
 # Face Recognition Attendance System Using Local Binary Pattern Histogram Algorithm
 
-# ABSTRACT
+# Abstract
 
 Like other widely used biometric technologies like fingerprint, iris, and finger vein pattern recognition, face recognition is a biometric technique.
 The face is the most important part of the human body for recognizing each 

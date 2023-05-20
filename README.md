@@ -2,7 +2,7 @@
 # Face Recognition Attendance System Using Local Binary Pattern Histogram Algorithm
 
 # ABSTRACT
----------------------
+
 Like other widely used biometric technologies like fingerprint, iris, and finger vein pattern recognition, face recognition is a biometric technique.
 The face is the most important part of the human body for recognizing each 
 individual because it contains many important features. 
@@ -14,18 +14,18 @@ This article mainly sets four directions to consider the problems: the accuracy 
 By analyzing the situation of these problems, the concept of an attendance system based on face recognition technology is proposed, and research on fa ace recognition attendance system based on real-time video processing is carried out. The face recognition time and attendance system with real-time video processing through the above experimental certification can quickly complete the tasks of students in the time and attendance check-in system, get rid of the complex naming phenomenon, greatly improve the efficiency of class, and play an important role in guiding the development of the time and attendance system.
 
 # Algorithms 
--------------
+
 # LBPH (Local Binary Pattern Histogram) 
 is a Face-Recognition algorithm it is used to recognize the face of a person.
 # Haar Cascade 
 Haar classifiers were classifiers that were used in the first real-time face detector.
 
 # Python Libraries :
----------------------------
-Tkinter
-Pillow (a fork of PIL)
-OS Module
-pyttsx3
-Time Module 
-Date Time Module 
+
+Tkinter,
+Pillow (a fork of PIL),
+OS Module,
+pyttsx3,
+Time Module, 
+Date Time Module, 
 
